@@ -1,31 +1,12 @@
-/* input:focus{
-    background-color: green;
-}
-input:hover{
-    background-color: red;
-    
-}
-ol{
-    list-style-type: circle;
-}
-a{
-    text-decoration: none;
-}
+
 .div {
     background-color: darkgoldenrod;
     box-shadow: 23px 5px 18px 7px rebeccapurple;
 height: 53px;
 }
-
-.p {
-    float: right;
-    width: 65%;
-    margin-top: 1%;
-}
 progress{
     width: 32%;
 color: red;
-
 }
 hr{
 border: solid;
@@ -35,26 +16,31 @@ h1{
     color: darkgoldenrod;
 }
 div{
-height: 130px;
-background-color: red;
-transition-property: all;
-transition-duration: 2s;    
-transition-timing-function:step-start;
+        height: 130px;
+        background-color: red;
+        transition-property: all;
+        transition-duration: 2s;
+        box-shadow: 47px -29px 2px 43px chartreuse;
+
 }
 div:hover{
-    background-color: black;
-    width: 690px;
-} */
+    background-color: mediumslateblue;
+    width: 72%;
+}
 
 img{
-    width: 50%;
-    height: 50%;
     height: 130px;
-background-color: red;
-transition-property: all;
-transition-duration: 2s;    
+    color: red;
+    transition-property: all;
+    transition-duration: 2s; 
 
 }
 img:hover{
     width: 60%;
+    height: 100%;
+}
+p{
+    float: right;
+    width: 65%;
+    margin-top: 1%;
 }
